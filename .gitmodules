@@ -1,0 +1,3 @@
+[submodule "areas"]
+	path = areas
+	url = https://github.com/minetest-mods/areas.git
