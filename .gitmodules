@@ -7,3 +7,6 @@
 [submodule "morelights"]
 	path = morelights
 	url = https://github.com/random-geek/morelights.git
+[submodule "irc_commands"]
+	path = irc_commands
+	url = https://github.com/minetest-mods/irc_commands.git
