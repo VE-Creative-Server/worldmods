@@ -46,3 +46,57 @@
 [submodule "icemachine"]
 	path = icemachine
 	url = https://cheapiesystems.com/git/icemachine/
+[submodule "mesecons"]
+	path = mesecons
+	url = https://github.com/minetest-mods/mesecons
+[submodule "teleport-request"]
+	path = teleport-request
+	url = https://github.com/minetest-mods/teleport-request
+[submodule "areasprotector"]
+	path = areasprotector
+	url = https://cheapiesystems.com/git/areasprotector/
+[submodule "travelnet"]
+	path = travelnet
+	url = https://github.com/mt-mods/travelnet
+[submodule "beerchat"]
+	path = beerchat
+	url = https://github.com/mt-mods/beerchat/
+[submodule "inspector"]
+	path = inspector
+	url = https://github.com/minetest-mods/inspector
+[submodule "mesecons_carts"]
+	path = mesecons_carts
+	url = https://cheapiesystems.com/git/mesecons_carts/
+[submodule "pbj_pup"]
+	path = pbj_pup
+	url = https://notabug.org/TenPlus1/pbj_pup
+[submodule "dropthecaps"]
+	path = dropthecaps
+	url = https://cheapiesystems.com/git/dropthecaps/
+[submodule "mesecons_display"]
+	path = mesecons_display
+	url = https://cheapiesystems.com/git/mesecons_display
+[submodule "bucket_privs"]
+	path = bucket_privs
+	url = git@github.com:ChaosWormz/bucket_privs.git
+[submodule "playersettings"]
+	path = playersettings
+	url = https://cheapiesystems.com/git/playersettings/
+[submodule "minetest-snippets"]
+	path = minetest-snippets
+	url = https://gitlab.com/luk3yx/minetest-snippets
+[submodule "minislots"]
+	path = minislots
+	url = https://github.com/mt-mods/minislots.git
+[submodule "doxy_morelights_dim"]
+	path = doxy_morelights_dim
+	url = https://invent.kde.org/davidhurka/doxy_morelights_dim
+[submodule "printer"]
+	path = printer
+	url = git://cheapiesystems.com/printer
+[submodule "elevatorparts"]
+	path = elevatorparts
+	url = https://cheapiesystems.com/git/elevatorparts/
+[submodule "creativesettings"]
+	path = creativesettings
+	url = https://cheapiesystems.com/git/creativesettings/
