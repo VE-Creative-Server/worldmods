@@ -100,3 +100,57 @@
 [submodule "creativesettings"]
 	path = creativesettings
 	url = https://cheapiesystems.com/git/creativesettings/
+[submodule "we_undo"]
+	path = we_undo
+	url = https://github.com/HybridDog/we_undo
+[submodule "minetest-laptop"]
+	path = minetest-laptop
+	url = https://github.com/Gerold55/minetest-laptop
+[submodule "mt_morcmds"]
+	path = mt_morcmds
+	url = https://github.com/ChaosWormz/mt_morcmds.git
+[submodule "PCPack1"]
+	path = PCPack1
+	url = https://github.com/Gerold55/PCPack1
+[submodule "laptop_extend_pack_2"]
+	path = laptop_extend_pack_2
+	url = https://github.com/Chrithon/laptop_extend_pack_2
+[submodule "firealarm"]
+	path = firealarm
+	url = https://cheapiesystems.com/git/firealarm/
+[submodule "daynightratio"]
+	path = daynightratio
+	url = https://cheapiesystems.com/git/daynightratio/
+[submodule "wield3d"]
+	path = wield3d
+	url = https://github.com/stujones11/wield3d
+[submodule "Minetest-WorldEdit"]
+	path = Minetest-WorldEdit
+	url = https://github.com/Uberi/Minetest-WorldEdit.git
+[submodule "Minetest-WorldEditAdditions"]
+	path = Minetest-WorldEditAdditions
+	url = https://github.com/sbrl/Minetest-WorldEditAdditions.git
+[submodule "digiline_routing"]
+	path = digiline_routing
+	url = https://github.com/numberZero/digiline_routing
+[submodule "names_per_ip"]
+	path = names_per_ip
+	url = https://github.com/SmallJoker/names_per_ip.git
+[submodule "letters"]
+	path = letters
+	url = https://github.com/minetest-mods/letters
+[submodule "skinsdb"]
+	path = skinsdb
+	url = https://github.com/minetest-mods/skinsdb
+[submodule "digiscreen"]
+	path = digiscreen
+	url = https://cheapiesystems.com/git/digiscreen/
+[submodule "fsc"]
+	path = fsc
+	url = https://github.com/sofar/fsc
+[submodule "lib_mount"]
+	path = lib_mount
+	url = https://github.com/minetest-mods/lib_mount
+[submodule "newplayer"]
+	path = newplayer
+	url = https://cheapiesystems.com/git/newplayer
