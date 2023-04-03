@@ -16,3 +16,33 @@
 [submodule "xban2"]
 	path = xban2
 	url = https://github.com/minetest-mods/xban2
+[submodule "digistuff"]
+	path = digistuff
+	url = https://cheapiesystems.com/git/digistuff
+[submodule "castle_gates"]
+	path = castle_gates
+	url = https://github.com/minetest-mods/castle_gates
+[submodule "ltc4000e"]
+	path = ltc4000e
+	url = https://cheapiesystems.com/git/ltc4000e/
+[submodule "ambience"]
+	path = ambience
+	url = https://notabug.org/TenPlus1/ambience
+[submodule "notice"]
+	path = notice
+	url = https://github.com/BlockCityCreative/notice
+[submodule "lightcontroller"]
+	path = lightcontroller
+	url = https://cheapiesystems.com/git/lightcontroller/
+[submodule "digistuff_nbextras"]
+	path = digistuff_nbextras
+	url = https://cheapiesystems.com/git/digistuff_nbextras/
+[submodule "handdryer"]
+	path = handdryer
+	url = https://cheapiesystems.com/git/handdryer/
+[submodule "digiterms"]
+	path = digiterms
+	url = https://github.com/pyrollo/digiterms
+[submodule "icemachine"]
+	path = icemachine
+	url = https://cheapiesystems.com/git/icemachine/
