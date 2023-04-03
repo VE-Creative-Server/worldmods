@@ -10,3 +10,9 @@
 [submodule "irc_commands"]
 	path = irc_commands
 	url = https://github.com/minetest-mods/irc_commands.git
+[submodule "display_api"]
+	path = display_api
+	url = https://github.com/minetest-mods/display_api
+[submodule "xban2"]
+	path = xban2
+	url = https://github.com/minetest-mods/xban2
