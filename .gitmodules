@@ -48,7 +48,7 @@
 	url = https://cheapiesystems.com/git/icemachine/
 [submodule "mesecons"]
 	path = mesecons
-	url = https://github.com/minetest-mods/mesecons
+	url = https://github.com/mt-mods/mesecons
 [submodule "teleport-request"]
 	path = teleport-request
 	url = https://github.com/minetest-mods/teleport-request
