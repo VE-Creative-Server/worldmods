@@ -154,3 +154,6 @@
 [submodule "newplayer"]
 	path = newplayer
 	url = https://cheapiesystems.com/git/newplayer
+[submodule "elevator"]
+	path = elevator
+	url = https://github.com/tigris-mt/elevator.git
