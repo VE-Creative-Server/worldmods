@@ -157,3 +157,6 @@
 [submodule "elevator"]
 	path = elevator
 	url = https://github.com/tigris-mt/elevator.git
+[submodule "digilines"]
+	path = digilines
+	url = https://github.com/minetest-mods/digilines.git
