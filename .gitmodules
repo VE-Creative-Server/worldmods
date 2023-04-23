@@ -10,9 +10,6 @@
 [submodule "irc_commands"]
 	path = irc_commands
 	url = https://github.com/minetest-mods/irc_commands.git
-[submodule "display_api"]
-	path = display_api
-	url = https://github.com/minetest-mods/display_api
 [submodule "xban2"]
 	path = xban2
 	url = https://github.com/minetest-mods/xban2
@@ -160,3 +157,6 @@
 [submodule "digilines"]
 	path = digilines
 	url = https://github.com/minetest-mods/digilines.git
+[submodule "display_modpack"]
+	path = display_modpack
+	url = https://github.com/pyrollo/display_modpack.git
