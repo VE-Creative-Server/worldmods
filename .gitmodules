@@ -160,3 +160,6 @@
 [submodule "display_modpack"]
 	path = display_modpack
 	url = https://github.com/pyrollo/display_modpack.git
+[submodule "Uvents"]
+	path = Uvents
+	url = https://github.com/LminusSucksAtCoding/Uvents.git
