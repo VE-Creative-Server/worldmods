@@ -163,3 +163,6 @@
 [submodule "Uvents"]
 	path = Uvents
 	url = https://github.com/LminusSucksAtCoding/Uvents.git
+[submodule "vehicle_mash"]
+	path = vehicle_mash
+	url = https://github.com/minetest-mods/vehicle_mash
