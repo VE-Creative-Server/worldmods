@@ -166,3 +166,6 @@
 [submodule "vehicle_mash"]
 	path = vehicle_mash
 	url = https://github.com/minetest-mods/vehicle_mash
+[submodule "celevator"]
+	path = celevator
+	url = https://cheapiesystems.com/git/celevator
