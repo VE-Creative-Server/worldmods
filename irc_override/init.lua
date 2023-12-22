@@ -30,3 +30,17 @@ function irc.say(to, msg)
 		return
 	end
 end
+
+
+
+minetest.register_on_mods_loaded(function()
+	local oldme = minetest.chatcommands["me"].func
+	-- luacheck: ignore
+	minetest.chatcommands["me"].func = function(name, param, ...)
+		local channel = beerchat.currentPlayerChannel[player] or "#lminus-test"
+		if channel == beerchat.main_channel_name then
+			irc.say(("* %s %s"):format(name, param))
+		end
+		return oldme(name, param, ...)
+	end
+end)
