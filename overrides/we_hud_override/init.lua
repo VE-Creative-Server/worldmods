@@ -18,15 +18,17 @@ end
 
 minetest.register_on_joinplayer(function(player, last_login)
 	local username = player:get_player_name()
-	worldedit_hud_helper.hide_hud(player)
-	--worldedit_hud_helper.info[username].enabled = false
-end)
---[[
-minetest.register_on_leaveplayer(function(player, timed_out)
-	local username = player:get_player_name()
+	minetest.after(1, function()
+		worldedit_hud_helper.hide_hud(player)
+	end)
 	worldedit_hud_helper.info[username].enabled = false
 end)
-]]--
+
+minetest.register_on_leaveplayer(function(player, timed_out)
+	local username = player:get_player_name()
+	worldedit_hud_helper.info[username].enabled = nil
+end)
+
 local timer = 0.5
 local wasEnabled = {}
 minetest.register_globalstep(function(dtime)
@@ -46,6 +48,6 @@ minetest.register_globalstep(function(dtime)
 			wasEnabled[username] = false
 			worldedit_hud_helper.hide_hud(player)
 		end			
-		--worldedit_hud_helper.info[username].enabled = isWandEquipped
+		worldedit_hud_helper.info[username].enabled = isWandEquipped
 	end
 end)
