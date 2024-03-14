@@ -22,19 +22,19 @@ jobs:
 
     - uses: actions/checkout@v4
       with:
-        repository: minetest/minetest_game
-        ref: "5.8.0"
-        path: .REPOS/minetest_game
+        repository: mt-mods/dreambuilder_game
+        #ref: "5.8.0"
+        path: .REPOS/dreambuilder_game
 
-    - uses: actions/checkout@v4
-      with:
-        repository: BuckarooBanzay/mtt
-        path: mtt
+    # - uses: actions/checkout@v4
+    #   with:
+    #     repository: BuckarooBanzay/mtt
+    #     path: mtt
 
-    - uses: actions/checkout@v4
-      with:
-        repository: BlockySurvival/bls_test_nodenames
-        path: bls_test_nodenames
+    # - uses: actions/checkout@v4
+    #   with:
+    #     repository: BlockySurvival/bls_test_nodenames
+    #     path: bls_test_nodenames
 
     # - name: Update minetest.conf and world.mt
     #   run: |-
