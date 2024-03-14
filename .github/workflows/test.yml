@@ -1,0 +1,31 @@
+name: test
+
+on: [push, pull_request]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    strategy:
+      matrix:
+        ENGINE_IMAGE:
+          - ghcr.io/minetest-hosting/minetest-docker:5.8.0
+          - ghcr.io/minetest-hosting/minetest-docker:main
+
+    steps:
+    - uses: actions/checkout@v4
+      with:
+        fetch-depth: 0
+        submodules: recursive
+
+    - uses: actions/checkout@v4
+      with:
+        repository: mt-mods/dreambuilder_game
+        ref: "5.7.0"
+        path: .REPOS/dreambuilder_game
+        
+    - name: test
+      run: docker-compose up --exit-code-from testserver
+      env:
+        ENGINE_IMAGE: ${{ matrix.ENGINE_IMAGE }}
