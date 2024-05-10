@@ -172,3 +172,36 @@
 [submodule "celevator"]
 	path = celevator
 	url = https://cheapiesystems.com/git/celevator/
+[submodule "techage"]
+	path = techage
+	url = https://github.com/joe7575/techage
+[submodule "tubelib2"]
+	path = tubelib2
+	url = https://github.com/joe7575/tubelib2
+[submodule "networks"]
+	path = networks
+	url = https://github.com/joe7575/networks
+[submodule "minecart"]
+	path = minecart
+	url = https://github.com/joe7575/minecart
+[submodule "lcdlib"]
+	path = lcdlib
+	url = https://github.com/joe7575/lcdlib
+[submodule "safer_lua"]
+	path = safer_lua
+	url = https://github.com/joe7575/safer_lua
+[submodule "doclib"]
+	path = doclib
+	url = https://github.com/joe7575/doclib
+[submodule "techpack_stairway"]
+	path = techpack_stairway
+	url = https://github.com/joe7575/techpack_stairway
+[submodule "ta4_addons"]
+	path = ta4_addons
+	url = https://github.com/Thomas--S/ta4_addons
+[submodule "ta_apiary"]
+	path = ta_apiary
+	url = https://gitlab.com/lesya_minetest_mods/ta_apiary
+[submodule "techage_db_compat"]
+	path = techage_db_compat
+	url = https://cheapiesystems.com/git/techage_db_compat/
