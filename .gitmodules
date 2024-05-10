@@ -205,3 +205,6 @@
 [submodule "techage_db_compat"]
 	path = techage_db_compat
 	url = https://cheapiesystems.com/git/techage_db_compat/
+[submodule "techage_digiline_converter"]
+	path = techage_digiline_converter
+	url = https://github.com/MaxSMaker/techage_digiline_converter
