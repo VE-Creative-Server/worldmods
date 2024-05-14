@@ -81,13 +81,13 @@
 	url = https://cheapiesystems.com/git/playersettings/
 [submodule "minetest-snippets"]
 	path = minetest-snippets
-	url = https://gitlab.com/luk3yx/minetest-snippets
+	url = https://gitlab.com/luk3yx/minetest-snippets.git/
 [submodule "minislots"]
 	path = minislots
 	url = https://github.com/mt-mods/minislots.git
 [submodule "doxy_morelights_dim"]
 	path = doxy_morelights_dim
-	url = https://invent.kde.org/davidhurka/doxy_morelights_dim
+	url = https://invent.kde.org/davidhurka/doxy_morelights_dim.git
 [submodule "printer"]
 	path = printer
 	url = git://cheapiesystems.com/printer
