@@ -124,9 +124,6 @@
 [submodule "Minetest-WorldEdit"]
 	path = Minetest-WorldEdit
 	url = https://github.com/Uberi/Minetest-WorldEdit.git
-[submodule "Minetest-WorldEditAdditions"]
-	path = Minetest-WorldEditAdditions
-	url = https://github.com/sbrl/Minetest-WorldEditAdditions.git
 [submodule "digiline_routing"]
 	path = digiline_routing
 	url = https://github.com/numberZero/digiline_routing
