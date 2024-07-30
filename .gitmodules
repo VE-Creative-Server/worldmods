@@ -170,7 +170,7 @@
 	path = celevator
 	url = https://cheapiesystems.com/git/celevator/
 [submodule "minetest-floating_anchor"]
-	path = minetest-floating_anchor
+	path = floating_anchor
 	url = https://github.com/sbrl/minetest-floating_anchor
 [submodule "motorbike"]
 	path = motorbike
