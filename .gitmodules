@@ -169,9 +169,9 @@
 [submodule "celevator"]
 	path = celevator
 	url = https://cheapiesystems.com/git/celevator/
-[submodule "minetest-floating_anchor"]
-	path = floating_anchor
-	url = https://github.com/sbrl/minetest-floating_anchor
 [submodule "motorbike"]
 	path = motorbike
 	url = https://github.com/Extex101/motorbike
+[submodule "floating_anchor"]
+	path = floating_anchor
+	url = https://github.com/sbrl/minetest-floating_anchor

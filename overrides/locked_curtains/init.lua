@@ -1,6 +1,6 @@
 local S = minetest.get_translator("homedecor_windows_and_treatments")
 
-homedecor_windows_and_treatments = {}
+--homedecor_windows_and_treatments = {}
 
 
 minetest.register_node(":homedecor:curtain_locked_closed", {
