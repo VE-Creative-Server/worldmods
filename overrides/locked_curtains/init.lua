@@ -70,6 +70,7 @@ homedecor.register("curtain_closed_locked", {
 	end,
 	on_dig = unifieddyes.on_dig,
 	on_rightclick = function(pos, node, clicker, itemstack, pointed_thing)
+		local name = clicker:get_player_name()
 		if minetest.is_protected(pos,name) and not minetest.check_player_privs(name,{protection_bypass=true}) then
 			minetest.record_protection_violation(pos,name)
 			return
@@ -98,6 +99,7 @@ homedecor.register("curtain_open_locked", {
 	end,
 	on_dig = unifieddyes.on_dig,
 	on_rightclick = function(pos, node, clicker, itemstack, pointed_thing)
+		local name = clicker:get_player_name()
 		if minetest.is_protected(pos,name) and not minetest.check_player_privs(name,{protection_bypass=true}) then
 			minetest.record_protection_violation(pos,name)
 			return
