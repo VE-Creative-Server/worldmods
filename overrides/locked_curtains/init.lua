@@ -1,5 +1,5 @@
 local S = minetest.get_translator("homedecor_windows_and_treatments")
-
+--[[
 homedecor.register("curtain_closed", {
 	description = S("Curtains"),
 	tiles = { "homedecor_curtain.png" },
@@ -48,7 +48,7 @@ homedecor.register("curtain_open", {
 		return itemstack
 	end
 })
-
+]]--
 
 homedecor.register("curtain_closed_locked", {
 	description = S("Curtains (locked)"),

@@ -175,3 +175,6 @@
 [submodule "floating_anchor"]
 	path = floating_anchor
 	url = https://github.com/sbrl/minetest-floating_anchor
+[submodule "gates"]
+	path = gates
+	url = https://bitbucket.org/kingarthursteam/gates/
