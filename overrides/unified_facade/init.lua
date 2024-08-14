@@ -16,7 +16,7 @@ local function facade_inventory()
 end
 
 if minetest.get_modpath("facade") then
-  minetest.register_on_mods_loaded(facade_inventory())
+  minetest.register_on_mods_loaded(function() minetest.after(0,facade_inventory) end)
 end
 
 if minetest.get_modpath("gates") then
