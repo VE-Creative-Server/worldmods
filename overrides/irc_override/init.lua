@@ -7,8 +7,12 @@ local function splitMessage(input)
 	return player, output
 end
 
-function irc.say(to, msg)
+function irc.say(to, msg, extra)
 	local irc = minetest.settings:get("irc.channel")
+  if extra then 
+    to = msg
+    msg = extra 
+  end
 	if msg and (to ~= irc) then
 		oldIrcSay(to, msg)
 		return
