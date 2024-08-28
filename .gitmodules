@@ -178,3 +178,6 @@
 [submodule "gates"]
 	path = gates
 	url = https://bitbucket.org/kingarthursteam/gates/
+[submodule "ma_pops_furniture"]
+	path = ma_pops_furniture
+	url = https://github.com/Gerold55/ma_pops_furniture
