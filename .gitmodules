@@ -181,3 +181,6 @@
 [submodule "ma_pops_furniture"]
 	path = ma_pops_furniture
 	url = https://github.com/Gerold55/ma_pops_furniture
+[submodule "mooncontroller"]
+	path = mooncontroller
+	url = https://github.com/mt-mods/mooncontroller
