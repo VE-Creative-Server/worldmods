@@ -184,3 +184,6 @@
 [submodule "mooncontroller"]
 	path = mooncontroller
 	url = https://github.com/mt-mods/mooncontroller
+[submodule "mooncontroller_convert"]
+	path = mooncontroller_convert
+	url = https://cheapiesystems.com/git/mooncontroller_convert/
