@@ -90,7 +90,7 @@
 	url = https://invent.kde.org/davidhurka/doxy_morelights_dim.git
 [submodule "printer"]
 	path = printer
-	url = git://cheapiesystems.com/printer
+	url = https://cheapiesystems.com/git/printer
 [submodule "elevatorparts"]
 	path = elevatorparts
 	url = https://cheapiesystems.com/git/elevatorparts/
