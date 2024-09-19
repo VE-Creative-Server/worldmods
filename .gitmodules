@@ -13,9 +13,6 @@
 [submodule "xban2"]
 	path = xban2
 	url = https://github.com/minetest-mods/xban2
-[submodule "digistuff"]
-	path = digistuff
-	url = https://cheapiesystems.com/git/digistuff
 [submodule "castle_gates"]
 	path = castle_gates
 	url = https://github.com/minetest-mods/castle_gates
@@ -43,9 +40,6 @@
 [submodule "icemachine"]
 	path = icemachine
 	url = https://cheapiesystems.com/git/icemachine/
-[submodule "mesecons"]
-	path = mesecons
-	url = https://github.com/mt-mods/mesecons
 [submodule "teleport-request"]
 	path = teleport-request
 	url = https://github.com/minetest-mods/teleport-request
@@ -184,3 +178,15 @@
 [submodule "mooncontroller_convert"]
 	path = mooncontroller_convert
 	url = https://cheapiesystems.com/git/mooncontroller_convert/
+[submodule "advtouchscreen"]
+	path = advtouchscreen
+	url = https://cheapiesystems.com/git/advtouchscreen/
+[submodule "mesecons_better_vertical"]
+	path = mesecons_better_vertical
+	url = https://cheapiesystems.com/git/mesecons_better_vertical/
+[submodule "mesecons"]
+	path = mesecons
+	url = https://github.com/minetest-mods/mesecons
+[submodule "digistuff"]
+	path = digistuff
+	url = https://github.com/mt-mods/digistuff
