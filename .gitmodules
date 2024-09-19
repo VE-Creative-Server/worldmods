@@ -190,3 +190,6 @@
 [submodule "digistuff"]
 	path = digistuff
 	url = https://github.com/mt-mods/digistuff
+[submodule "vizlib"]
+	path = vizlib
+	url = https://github.com/OgelGames/vizlib
