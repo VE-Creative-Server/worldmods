@@ -193,3 +193,6 @@
 [submodule "vizlib"]
 	path = vizlib
 	url = https://github.com/OgelGames/vizlib
+[submodule "cb_spill"]
+	path = cb_spill
+	url = https://cheapiesystems.com/git/cb_spill/
