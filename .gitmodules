@@ -196,3 +196,6 @@
 [submodule "cb_spill"]
 	path = cb_spill
 	url = https://cheapiesystems.com/git/cb_spill/
+[submodule "deprecationwarning"]
+	path = deprecationwarning
+	url = https://cheapiesystems.com/git/deprecationwarning/
