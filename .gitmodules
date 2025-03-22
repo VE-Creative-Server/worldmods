@@ -196,3 +196,6 @@
 [submodule "cb_spill"]
 	path = cb_spill
 	url = https://cheapiesystems.com/git/cb_spill/
+[submodule "terumet_lite"]
+	path = terumet_lite
+	url = https://cheapiesystems.com/git/terumet_lite/
