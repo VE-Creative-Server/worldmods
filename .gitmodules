@@ -199,3 +199,6 @@
 [submodule "terumet_lite"]
 	path = terumet_lite
 	url = https://cheapiesystems.com/git/terumet_lite/
+[submodule "technic_adminnodes"]
+	path = technic_adminnodes
+	url = https://cheapiesystems.com/git/technic_adminnodes
