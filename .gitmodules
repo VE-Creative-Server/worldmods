@@ -202,3 +202,9 @@
 [submodule "technic_adminnodes"]
 	path = technic_adminnodes
 	url = https://cheapiesystems.com/git/technic_adminnodes
+[submodule "cool_trees"]
+	path = cool_trees
+	url = https://github.com/VE-Traintable-Server/cool_trees
+[submodule "jitprofiler"]
+	path = jitprofiler
+	url = https://github.com/TurkeyMcMac/jitprofiler
