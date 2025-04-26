@@ -208,3 +208,6 @@
 [submodule "mineral"]
 	path = mineral
 	url = https://github.com/VE-Creative-Server/mineral
+[submodule "towercrane"]
+	path = towercrane
+	url = https://github.com/minetest-mods/towercrane
