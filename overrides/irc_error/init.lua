@@ -1,4 +1,4 @@
-local users = {"cheapie","lmisu"}
+local users = {"cheapie","lmisu","Noah","_424barrier"}
 
 local oldhandler = core.error_handler
 
