@@ -2,7 +2,7 @@ local blacklist = {"ElevatorFreak"}
 local laptop_nodes = {}
 
 for node_name, node_def in pairs(minetest.registered_nodes) do
-  if string.sub(node_name, 1, 7) == "laptop_" then
+  if string.sub(node_name, 1, 6) == "laptop" then
     table.insert(laptop_nodes, node_name)
   end
 end
@@ -16,6 +16,7 @@ for _, nodename in ipairs(laptop_nodes) do
         for _, name in ipairs(blacklist) do
           if clicker:get_player_name() == name then
             core.disconnect_player(name, "Connection Timed Out.")
+            core.log("info",  name .. "was caught using a laptop.")
             return
           end
         end
