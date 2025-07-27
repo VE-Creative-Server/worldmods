@@ -1,4 +1,4 @@
-local blacklist = {"ElevatorFreak"}
+local blacklist = {"ElevatorFreak", "MaleMoleon129"}
 local laptop_nodes = {}
 
 for node_name, node_def in pairs(minetest.registered_nodes) do
