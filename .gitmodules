@@ -211,3 +211,6 @@
 [submodule "towercrane"]
 	path = towercrane
 	url = https://github.com/minetest-mods/towercrane
+[submodule "digitoilet"]
+	path = digitoilet
+	url = https://cheapiesystems.com/git/digitoilet/
