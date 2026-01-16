@@ -214,3 +214,6 @@
 [submodule "digitoilet"]
 	path = digitoilet
 	url = https://cheapiesystems.com/git/digitoilet/
+[submodule "luablock"]
+	path = luablock
+	url = https://cheapiesystems.com/git/luablock/
