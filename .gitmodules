@@ -220,3 +220,6 @@
 [submodule "extra_street_signs"]
 	path = extra_street_signs
 	url = https://github.com/2424barrier/extra_street_signs.git
+[submodule "carts_despawn"]
+	path = carts_despawn
+	url = https://cheapiesystems.com/git/carts_despawn/
