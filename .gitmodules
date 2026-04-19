@@ -223,3 +223,6 @@
 [submodule "carts_despawn"]
 	path = carts_despawn
 	url = https://cheapiesystems.com/git/carts_despawn/
+[submodule "bike"]
+	path = bike
+	url = https://gitlab.com/h2mm/bike/
