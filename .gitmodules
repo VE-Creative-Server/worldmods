@@ -226,3 +226,6 @@
 [submodule "bike"]
 	path = bike
 	url = https://gitlab.com/h2mm/bike/
+[submodule "deprecationwarning"]
+	path = deprecationwarning
+	url = https://cheapiesystems.com/git/deprecationwarning/
