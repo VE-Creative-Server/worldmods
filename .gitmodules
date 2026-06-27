@@ -226,3 +226,6 @@
 [submodule "deprecationwarning"]
 	path = deprecationwarning
 	url = https://cheapiesystems.com/git/deprecationwarning/
+[submodule "digicontrol"]
+	path = digicontrol
+	url = https://github.com/OgelGames/digicontrol
