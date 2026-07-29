@@ -49,9 +49,6 @@
 [submodule "travelnet"]
 	path = travelnet
 	url = https://github.com/mt-mods/travelnet
-[submodule "beerchat"]
-	path = beerchat
-	url = https://github.com/mt-mods/beerchat/
 [submodule "inspector"]
 	path = inspector
 	url = https://github.com/minetest-mods/inspector
