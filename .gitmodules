@@ -223,3 +223,6 @@
 [submodule "digicontrol"]
 	path = digicontrol
 	url = https://github.com/OgelGames/digicontrol
+[submodule "cars_despawn"]
+	path = cars_despawn
+	url = https://cheapiesystems.com/git/cars_despawn/
