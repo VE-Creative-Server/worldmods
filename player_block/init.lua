@@ -29,7 +29,7 @@ load_blocked_players()
 -- Intercept chat message
 minetest.register_on_chat_message(function(name, message)
     if blocked_players[name] and (message:match("^%.players") or message:match("^,players")) then
-        minetest.chat_send_player(name, name .. ": " .. message)
+        minetest.chat_send_player(name, core.format_chat_message(name, message))
         return true
     end
     return false
